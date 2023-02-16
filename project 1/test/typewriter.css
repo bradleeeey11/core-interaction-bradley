@@ -1,0 +1,19 @@
+body {
+  font: 16px/20px 'Typeka', sans-serif;
+}
+
+a {
+  color: #222;
+}
+
+.wrap {
+  width: 500px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.test {
+  margin-top: 10px;
+  text-align: left;
+}
+  
